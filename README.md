@@ -1,5 +1,5 @@
-# Flowers Image Classifier
-Final project for the Udacity Nanodegree program: Deep Learning. A first neural network for predicting daily bike rental ridership.
+# Bikesharing project
+Project for the Udacity Nanodegree program: Deep Learning. A first neural network for predicting daily bike rental ridership.
 
 In this project and in the framework of the aformentioned Udacity nanodegree program, I build a neural network to carry out a prediction about daily bike rental ridership on a real dataset! I apply forwardpass gradient descent, backpropagation and other related concepts directly with python code (and without using any other higher-level tool such as PyTorch). 
 
